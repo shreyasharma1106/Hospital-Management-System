@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# But allow src folder
+!src/
+
+# Allow everything inside src
+!src/**
+
+# Keep .gitignore itself
+!.gitignore
